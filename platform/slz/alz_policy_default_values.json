@@ -71,6 +71,17 @@
           "policy_assignment_name": "Deploy-MDFC-Config-H224"
         }
       ]
+    },
+    {
+      "default_name": "logAnalyticsWorkspaceId",
+      "policy_assignments": [
+        {
+          "parameter_names": [
+            "logAnalytics"
+          ],
+          "policy_assignment_name": "Deploy-Diag-Logs"
+        }
+      ]
     }
   ]
 }
