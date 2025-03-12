@@ -263,7 +263,7 @@
         "value": "Deny"
       },
       "listOfAllowedLocations": {
-        "value": []
+        "value": ["eastus"]
       }
     },
     "policyDefinitionId": "/providers/Microsoft.Authorization/policySetDefinitions/03de05a4-c324-4ccd-882f-a814ea8ab9ea",
