@@ -4,7 +4,7 @@
   "apiVersion": "2019-09-01",
   "properties": {
     "description": "The Microsoft Cloud for Financial Services recommends confidential policies to help organizations achieve their financial services goals by default denying the creation of resources outside of approved regions, denying resources that are not backed by Azure Confidential Computing, and denying data storage resources that are not using Customer-Managed Keys.",
-    "displayName": "[Preview]: Financial Services Baseline - Confidential Policies",
+    "displayName": "[Preview]: Financial Services Baseline - Confidential Policiesd",
     "notScopes": [],
     "parameters": {
       "allowedResourceTypes": {
